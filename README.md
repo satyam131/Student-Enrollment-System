@@ -25,8 +25,9 @@ Key Features:
 # Student-Enrollment-System
 the Student Enrollment System streamlines the enrollment process, ensures accurate data collection, and provides an interactive and visually engaging experience for users. Its use of HTML5, CSS3, JavaScript, and the Bootstrap framework demonstrates a modern approach to web development, making it a valuable tool for educational institutions and organizations seeking efficient and user-friendly student enrollment solutions.
 
-
-
+Project Screenshot
+------------------
+<img width="901" alt="html css javascript scrren shots" src="https://github.com/satyam131/Student-Enrollment-System/assets/73646662/523723f3-32b5-46a6-ae41-4eb355313ba0">
 
 
 
